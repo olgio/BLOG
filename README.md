@@ -1,13 +1,13 @@
 ```project
-INTERNET SHOP
+Message Board
 ```
 ### services:
 ```
-shop
-cart
+title
+board
 ```
 dependencies:
 ```
-Django==5.0.3
+Django==5.0.4
 django-allauth
 ```
